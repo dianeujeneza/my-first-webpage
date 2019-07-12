@@ -1,0 +1,14 @@
+*{
+    background-color: gainsboro;
+    text-align: justify;
+}
+
+h1{
+    color:green;
+    text-align: center;
+    font-style: italic;
+}
+h3{
+    color:olive;
+    text-align: center;
+}
